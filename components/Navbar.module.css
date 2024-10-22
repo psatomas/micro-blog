@@ -1,0 +1,15 @@
+.left a[data-active="true"] {
+ color: darkblue;
+ font-weight: 700;
+}
+
+.right {
+    margin-left: auto;
+}
+
+.right a {
+    border: 1px solid darkgray;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+}
