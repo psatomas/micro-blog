@@ -1,0 +1,10 @@
+.page {
+    background: white;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.back {
+    margin-left: 1rem;
+}
